@@ -1,0 +1,65 @@
+.blabla{
+    position: fixed;
+background-color: rgba(128, 128, 128, 0.247) ;
+z-index: 999;
+width: 100%;
+}
+.center {
+    background-color: rgba(128, 128, 128, 0.445);
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    text-align: center;
+    justify-content: center;
+  }
+#albumstuff{
+    justify-content: center;
+}
+.playlist.cover{
+
+}
+.section-ablum-review{
+    margin-top: 1rem;
+}
+h2{
+    margin-bottom: 1rem;
+}
+img{
+   height: 100%;
+}
+.imageCover {
+    background-color: green;
+    background-image: url("../imgs/album.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+  }
+  
+
+body {
+    background-color: #c0b1c0a2;
+}
+
+video{
+    width: 100%;
+    object-fit: cover;
+}
+.jumbotron{
+position: relative;
+
+  }
+.jumbotron .container {
+ z-index: 2;
+ position: relative;
+ }
+#fku {
+transition: all 0.25s ease;
+ }
+ #fku:hover {
+ color: transparent;
+ }
+ .row{
+    
+ }
